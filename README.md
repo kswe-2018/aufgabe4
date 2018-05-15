@@ -14,11 +14,11 @@ Die Anwendung soll folgende Funktionalität haben:
 
 Es soll die folgende REST API als Datengrundlage genutzt werden:
 
-https://kswe.duckdns.org/stations-rest/api
+https://kswe.duckdns.org/sensor-api/
 
 Eine Kurzdokumentation der API steht unter folgender URL zur Verfügung:
 
-https://kswe.duckdns.org/stations-rest/docs/
+https://kswe.duckdns.org/sensor-api/docs/index.html
 
 ## Mockups
 
