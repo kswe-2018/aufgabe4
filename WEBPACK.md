@@ -42,7 +42,7 @@ Inhalt `index.html`:
     <title>Getting Started</title>
   </head>
   <body>
-    <div id="map"></div>
+    <div id="map" class="map-placeholder"></div>
     <script src="dist/bundle.js"></script>
   </body>
 </html>
