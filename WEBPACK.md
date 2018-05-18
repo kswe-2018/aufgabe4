@@ -18,7 +18,7 @@ Initialisierung:
 * Integriertes Terminal/Konsole öffnen (in Windows ist das die Powershell)
 * `npm init -y`
 * Webpack-Basis: `npm install webpack webpack-cli --save-dev`
-* Webpack-Erweiterungen: `npm install html-loader node-sass sass-loader css-loader style-loader webpack-dev-server --save-dev`
+* Webpack-Erweiterungen: `npm install html-loader node-sass sass-loader css-loader style-loader file-loader webpack-dev-server --save-dev`
 
 * Leaflet installieren: `npm install leaflet --save`
 
