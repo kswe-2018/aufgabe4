@@ -74,7 +74,6 @@ Inhalt `index.html`:
 
 Inhalt `src/index.js`
 ```
-import _ from 'lodash';
 import './style.scss';
 import L from 'leaflet';
 
