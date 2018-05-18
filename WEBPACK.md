@@ -48,6 +48,24 @@ Inhalt `index.html`:
 </html>
 ```
 
+Inhalt `src/style.scss`:
+
+```
+@import "~leaflet/dist/leaflet.css";
+
+html, body, .full-width-height {
+    margin: 0;
+    padding: 0;
+    width:100%;
+    height:100%;
+}
+
+.map-placeholder {
+    width:100%;
+    height:100%;
+}
+```
+
 ## webpack.config.js
 
 * Enthält Definition von Loadern (modules)
